@@ -1,5 +1,7 @@
-#include<iostream>
+#include <iostream>
 
-int main(){
-  std::cout << "Text Adventure!" << std::endl;
+int main(int argc, char **argv)
+{
+    std::cout << "Hello World" << std::endl;
+    return 0;
 }
